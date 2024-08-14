@@ -1,6 +1,6 @@
 # My-Paper
-**應用MAMBA於CRF在中文醫學命名實體識別** \
-**Applying MAMBA with CRF in Chinese Medical Named Entity Recognition** \
+論文名-中文：應用MAMBA於CRF在中文醫學命名實體識別 \
+論文名-英文：Applying MAMBA with CRF in Chinese Medical Named Entity Recognition \
 Hugging Face(Model is Private) : https://huggingface.co/UJForSchool
 
 ## 摘要
