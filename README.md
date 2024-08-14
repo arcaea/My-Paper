@@ -1,6 +1,6 @@
 # My Paper - 應用MAMBA於CRF在中文醫學命名實體識別
 
-model is save in Hugging Face: https://huggingface.co/UJForSchool \
+model is save in Hugging Face
 Keyword：NLP、NER、SSM、CRF、Mamba
 
 ## 摘要
