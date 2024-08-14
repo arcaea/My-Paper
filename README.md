@@ -9,6 +9,9 @@ Hugging Face(Model is Private) : https://huggingface.co/UJForSchool
 ## 模型訓練
 ![image](https://github.com/arcaea/My-Paper/blob/main/Pic/Algorithm%201%20.jpg)
 
+## 結果比較
+![image](https://github.com/arcaea/My-Paper/blob/main/Pic/%E5%90%84%E6%A8%A1%E5%9E%8B%E5%9C%A8%E4%B8%AD%E6%96%87%E9%86%AB%E7%99%82%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%BE%A8%E8%AD%98%E8%B3%87%E6%96%99%E9%9B%86%E7%9A%84%E6%AF%94%E8%BC%83.jpg)
+
 ## 結論
 透過本研究成功提出了一種創新的方法，將Mamba模型與CRF進行結合，並在中文醫療命名實體辨識資料集上顯示了其良好的性能，達到了91.9%的Micro average F1-score。這項研究不僅突顯了Mamba結合CRF模型的優勢，同時也強調了模型架構在處理特定任務時的重要性。
 
