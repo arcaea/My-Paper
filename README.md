@@ -5,7 +5,7 @@ Hugging Face(Model is Private) : https://huggingface.co/UJForSchool
 
 ## 資料集
 ![image](https://github.com/arcaea/My-Paper/blob/main/Pic/%E4%B8%AD%E6%96%87%E9%86%AB%E7%99%82%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%BE%A8%E8%AD%98%E8%B3%87%E6%96%99%E9%9B%86%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E9%A1%9E%E5%88%A5%E7%9A%84%E6%8F%8F%E8%BF%B0%E3%80%81%E6%95%B8%E9%87%8F%E4%BB%A5%E5%8F%8A%E6%AF%94%E4%BE%8B.jpg)
-REF:https://rocling2023.github.io/
+REF：(Lee et al., 2023)
 
 ## 模型架構圖
 ![image](https://github.com/arcaea/My-Paper/blob/main/Pic/%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%A7%8B%E5%9C%96.jpg)
