@@ -1,3 +1,3 @@
 # My-Paper
-我的研究~
-huggingFace:https://huggingface.co/UJForSchool
+我的研究~ \
+Hugging Face : https://huggingface.co/UJForSchool
