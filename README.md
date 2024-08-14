@@ -4,7 +4,7 @@ Hugging Face(Model is Private) : https://huggingface.co/UJForSchool
 自然語言處理（NLP）領域是人工智慧(AI)中一個關鍵領域，它使機器能夠理解、分析和生成自然語言文本。近年來，深度學習和Transformer模型的崛起，以及大量可用的資料和強大的計算能力，推動了NLP的快速發展。NLP不僅在文本分類、機器翻譯和自動問答等方面取得了重要突破，還在情感分析、語音辨識和對話系統建構等領域實現了重要進展。但隨著處理序列長度和模型規模的增加，Transformer也面臨著計算效率下降的問題，基於上述原因，本研究透過Mamba模型，在命名實體辨識(NER)的問題上驗證，透過Mamba結構能夠更有效地處理長序列，並且能夠在計算上實現線性擴展，突破傳統Transformer在長序列上的計算瓶頸，並結合CRF加強序列中的依賴關係。本研究提的Mamba結合CRF模型，在中文醫療命名實體辨識資料集的測試，達到了91.9%的F1值。
 
 ## 資料集
-![image](https://github.com/arcaea/My-Paper/blob/main/Pic/%E4%B8%AD%E6%96%87%E9%86%AB%E7%99%82%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%BE%A8%E8%AD%98%E8%B3%87%E6%96%99%E9%9B%86%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E9%A1%9E%E5%88%A5%E7%9A%84%E6%8F%8F%E8%BF%B0%E3%80%81%E6%95%B8%E9%87%8F%E4%BB%A5%E5%8F%8A%E6%AF%94%E4%BE%8B.jpg)
+![image](https://github.com/arcaea/My-Paper/blob/main/Pic/%E4%B8%AD%E6%96%87%E9%86%AB%E7%99%82%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%BE%A8%E8%AD%98%E8%B3%87%E6%96%99%E9%9B%86%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E9%A1%9E%E5%88%A5%E7%9A%84%E6%8F%8F%E8%BF%B0%E3%80%81%E6%95%B8%E9%87%8F%E4%BB%A5%E5%8F%8A%E6%AF%94%E4%BE%8B.jpg) \
 REF：(Lee et al., 2023)
 
 ## 模型架構圖
